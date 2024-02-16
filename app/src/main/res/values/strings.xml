@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="lets_do_coding_together">Lets Do coding Together</string>
+    <string name="coding">Coding</string>
+    <string name="navigation_open"> Open Navigation Drawer</string>
+    <string name="navigation_close"> Close Navigation Drawer</string>
+</resources>
